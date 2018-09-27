@@ -1,6 +1,7 @@
 # Dojo Mocha
 
-Leia o https://mochajs.org/
+Leia importante:
+https://mochajs.org/
 
 O Mocha é uma das muitas estruturas de teste disponíveis para o Node.js. Como você verá em breve, isso nos ajuda a escrever casos de teste e suítes de testes, além de fornecer um mecanismo de relatório de resultados de testes. Foi escolhido sobre as alternativas porque apóia Promises. Ele se encaixa muito bem com a biblioteca de asserts de Chai mencionada anteriormente.
 
